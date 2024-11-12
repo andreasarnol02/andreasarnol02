@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Andreas Arnol!
 
-<!--
-**andreasarnol02/andreasarnol02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Experienced Software Engineer** with a strong background in **Product Management** since 2014. I have a passion for creating impactful software products and optimizing business processes.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Expertise
+- **Software Development**: Ruby on Rails, Turbo, Hotwire, and modern web technologies
+- **Product Management**: End-to-end product lifecycle, agile methodologies, and strategic planning
+- **Technologies**: Full-stack development, database optimization, and system integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Career Highlights
+- 💼 Over **10 years of experience** in the tech industry
+- 🎯 Successfully led multiple product launches, optimizing both customer satisfaction and business outcomes
+- 💡 Passionate about solving complex problems, leveraging both technical and managerial skills
+
+## 🌐 Let's Connect
+- 📎 [LinkedIn Profile](https://www.linkedin.com/in/andreasarnol02)
+
+Feel free to connect if you're interested in discussing tech, products, or potential collaborations! 🚀
